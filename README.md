@@ -74,3 +74,7 @@ Training randomness is not fully controlled, so results can vary between runs. T
 ## Skills demonstrated
 
 Data preparation, stratified splitting, training-only feature scaling, neural network construction, multiclass evaluation, visualization, and critical interpretation of model limitations.
+
+## Written report
+
+[Read the coursework report](report.pdf) for the methodology, figures, results, and discussion.
